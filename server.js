@@ -48,7 +48,7 @@ const database = {
 
 
 app.get('/',(req,res) => {
-	res.send(console.log(req))
+	res.send(console.log(it is working!)
 })
 
 app.post('/signin',(req,res) => {
